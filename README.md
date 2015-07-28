@@ -42,3 +42,8 @@ with scientific datasets and remote sensing analysis. My goals are:
   a set of more general purpose tools. Notebooks are great for capturing
   workflows, but I also want to capture the process of going from step-by-step
   analysis to creating good scientific software tools.
+
+## What's this project not about?
+
+At this point, assume that nothing inside of it is particularly accurate or has
+any scientific merit. It's really just me playing with datasets of interest.
