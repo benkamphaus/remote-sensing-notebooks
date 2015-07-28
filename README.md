@@ -13,7 +13,7 @@ interest in the Astronomy side and a little professional experience from
 working for a few years as an IDL instructor and elsewhere in the space
 industry.
 
-I'm also an ex-archaeologists, and as a result have a pretty eclectic
+I'm also an ex-archaeologist, and as a result have a pretty eclectic
 [publication record](https://scholar.google.com/citations?user=HShNeNsAAAAJ&hl=en).
 
 You can reach out to me at ben dot kamphaus @ gmail with any questions. If you
